@@ -69,7 +69,7 @@ You can contribute by reviewing and sending feedback by trying out new features 
 
 ## What to do if I encounter a Problem or a Bug?
 
-We provide full technical support to everyone, regardless of whether they have purchased a license, or are just evaluating the product. Please post a message on the Aspose.Cells forum with a description of your issue and any input document/code. We will reply within 12-24 hours with some helpful feedback.
+We provide full technical support to everyone, regardless of whether they have purchased a license, or are just evaluating the product. Please post a message on the Aspose.Email forum with a description of your issue and any input document/code. We will reply within 12-24 hours with some helpful feedback.
 
 We fix all bugs reported to us and try to implement all features requested by customers. To submit a bug report or for any general inquries, please post a message in the [Aspose.Cells Forum](http://www.aspose.com/community/forums/aspose.cells-product-family/19/showforum.aspx).
 
