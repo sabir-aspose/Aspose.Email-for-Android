@@ -30,7 +30,7 @@ The Aspose.Email for Android examples published here at GitHub is a part of the 
 
 ##What's Included in this Examples Repository?
 
-###Code
+### Code
 
 All examples are provided as separate projects in Java. Each example contains a fully working app in project form ready for packaging into an .apk and run either on an emulator or real device.
 
