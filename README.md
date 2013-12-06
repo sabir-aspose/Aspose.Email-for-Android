@@ -50,7 +50,7 @@ All examples are provided as separate projects in Java. Each example contains a 
 
 ##Download the Examples
 
-Please [Download the Aspose.Email for Android Examples](https://github.com/asposecells/Aspose_Cells_Android/archive/master.zip) to try them at your end.
+Please [Download the Aspose.Email for Android Examples](https://github.com/asposeemail/Aspose_email_Android/archive/master.zip) to try them at your end.
 
 ##How to use the Examples?
 
