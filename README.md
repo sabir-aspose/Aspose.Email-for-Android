@@ -36,8 +36,8 @@ All examples are provided as separate projects in Java. Each example contains a 
 
 <table>
   <tr><th>Example<th>Description</th></tr>
-  <tr><td>HelloWorld</td><td>Demonstrates how to create a simple document and save it to the external storage device in a variety of different formats.</td></tr>
-  <tr><td>Chart</td><td>Demonstrates how to create a chart and save it to the external storage device. You will need to push AreaTemplate.xls file in external storage device which you can get from the Input directory to run this demo.</td></tr>
+  <tr><td>Creating message</td><td>Demonstrates how to create a simple message file and save it in different formats such as EML, MSG and MHTML.</td></tr>
+  <tr><td>Working With PST</td><td>A complete example on working with PST files. It contains separate methods to add differnt type of items to a PST i.e. MSGs, Calendar items, Notes, Tasks and Contacts.</td></tr>
 </table>
 
 ###Data
